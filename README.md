@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanishQadir
-- 👀 I’m interested in web Development /SQA
-- 🌱 I’m currently learning node js/React/Manual Testing/Automation..............
+- 👀 I’m interested in web Development
+- 🌱 I’m currently learning node js/React..............
 - 💞
 - 📫 How to reach me danishbaloch2211@gmail.com
 - 😄 Pronouns: he/him
